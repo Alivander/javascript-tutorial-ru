@@ -185,8 +185,6 @@ function getCoords(elem) {   // кроме IE8-
     left: box.left + pageXOffset
   };
 }
-
-}
 ```
 
 ```online
